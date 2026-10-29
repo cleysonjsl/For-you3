@@ -4,7 +4,7 @@
 
 /* ---------- ✏️ PERSONALIZE AQUI ✏️ ---------- */
 const CONFIG = {
-  apelido: "Mozi",          // como você a chama
+  apelido: "Mi Amô",          // como você a chama
   remetente: "",                // seu nome (opcional; deixe "" para omitir)
   musica: "assets/audio/musica.mp3", // caminho do áudio (só use se tiver autorização)
   fotos: [
