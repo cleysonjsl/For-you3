@@ -8,16 +8,16 @@ const CONFIG = {
   remetente: "",                // seu nome (opcional; deixe "" para omitir)
   musica: "assets/audio/musica.mp3", // caminho do áudio (só use se tiver autorização)
   fotos: [
-    { src: "assets/images/foto1.JPG", titulo: "Dormi com vc é um dos meus momentos favoritos heheh",
+    { src: "assets/images/foto1.JPG", titulo: "Dormi com vc é um dos meus momentos favoritos... huuumm dotoooosuu, heheh",
       legenda: "Existem momentos simples que acabam se tornando especiais só porque estamos ao lado de alguém que faz tudo ter um significado diferente." },
-    { src: "assets/images/foto2.jpg", titulo: "Uma lembrança que guardo com carinho",
+    { src: "assets/images/foto2.jpg", titulo: "Uma lembrança que guardo com carinho... vc toda princesa e eu, um mero plebeu 🫡",
       legenda: "Entre tantas coisas que a vida pode nos proporcionar, conhecer você e construir nossas próprias lembranças é algo pelo qual sou muito grato." },
-    { src: "assets/images/foto3.jpg", titulo: "E que venham muitos outros capítulos",
+    { src: "assets/images/foto3.jpg", titulo: "E que venham muitos outros capítulos... aqui tu tava uma grande gostosa, viu? 🥵😮‍💨 ",
       legenda: "Que a vida ainda nos presenteie com muitos momentos bonitos, novas histórias, risadas inesperadas e lembranças que mereçam ser guardadas para sempre." }
   ],
   carta: `Hoje é o seu dia, e eu queria encontrar uma forma diferente de te lembrar de algo muito especial: a sua vida merece ser celebrada.
 
-Feliz aniversário! ❤️
+Feliz aniversário! 🎈🎉🎂🥳🎊🎁😘❣️
 
 Espero que este novo ciclo chegue trazendo paz para o seu coração, saúde, felicidade, sonhos realizados e motivos sinceros para sorrir. Que você tenha coragem para buscar tudo aquilo que deseja e sabedoria para reconhecer a beleza das pequenas coisas pelo caminho.
 
